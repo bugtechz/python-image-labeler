@@ -1,6 +1,3 @@
-"""
-======================== GITHUB README TEMPLATE ========================
-
 # Machine Learning Image Annotation Tool
 
 A Python desktop application for annotating images for machine learning datasets.
@@ -68,6 +65,3 @@ Compatible with YOLOv5, YOLOv8, and Ultralytics.
 ## License
 
 MIT License
-
-========================================================================
-"""
